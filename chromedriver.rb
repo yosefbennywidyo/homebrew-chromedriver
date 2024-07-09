@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Chromedriver11605845187 < Formula
+class Chromedriver < Formula
   desc ""
   homepage ""
   url "https://github.com/Homebrew/homebrew-cask/blob/990ddc90a35e8c1ad3dd75788064ab6753e4afbd/Casks/c/chromedriver.rb"
